@@ -28,6 +28,6 @@ Sincerely I was struck by how well some people made money and the fact that they
 
 ## Contact
 
-santi16redo@gmail.com
-[LinkedIn](https://www.linkedin.com/in/santiago-redondo-fullstackdeveloper/)
+-    santi16redo@gmail.com
+-    [LinkedIn](https://www.linkedin.com/in/santiago-redondo-fullstackdeveloper/)
 
