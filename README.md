@@ -15,7 +15,7 @@ Sincerely I was struck by how well some people made money and the fact that they
 
 ## Some technologies I'm familiar with
 
-<div display="flex" align-items="flex-start" gap="30px">  
+<div style="display: flex; alig-items: flex-start; gap: 10px">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
